@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/KeyLocker/obj
+/Keylocker.Admin/obj
+/KeyLocker.Console/obj
+/KeyLocker.ConsoleTests/obj
+/KeyLockerTests/obj

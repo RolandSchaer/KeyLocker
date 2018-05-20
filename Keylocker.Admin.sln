@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Keylocker.Admin", "Keylocker.Admin\Keylocker.Admin.csproj", "{37D3CA72-C6BD-4741-85B3-CB89F42ED3D1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KeyLocker", "KeyLocker\KeyLocker.csproj", "{FA297D02-9402-4130-93BD-4E965A3A8BEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37D3CA72-C6BD-4741-85B3-CB89F42ED3D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37D3CA72-C6BD-4741-85B3-CB89F42ED3D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37D3CA72-C6BD-4741-85B3-CB89F42ED3D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37D3CA72-C6BD-4741-85B3-CB89F42ED3D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA297D02-9402-4130-93BD-4E965A3A8BEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA297D02-9402-4130-93BD-4E965A3A8BEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA297D02-9402-4130-93BD-4E965A3A8BEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA297D02-9402-4130-93BD-4E965A3A8BEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BA47465-7181-4DB2-8255-B00A9449E0F4}
+	EndGlobalSection
+EndGlobal
